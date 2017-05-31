@@ -11,10 +11,6 @@
         "msp/userlockout": "*",
         "msp/passwd": "*"
     },
-    "conflict": {
-        "msp/securitysuitefull": "*",
-        "msp/securitysuite": "*"
-    },
     "authors": [
         {
             "name": "Riccardo Tempesta",

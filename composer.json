@@ -1,0 +1,26 @@
+{
+    "name": "msp/security-suite",
+    "description": "Magento2 Security Suite by MageSpecialist",
+    "require": {
+        "msp/shield": "*",
+        "msp/antivirus": "*",
+        "msp/nospam": "*",
+        "msp/adminrestriction": "*",
+        "msp/recaptcha": "*",
+        "msp/twofactorauth": "*",
+        "msp/userlockout": "*",
+        "msp/passwd": "*"
+    },
+    "conflict": {
+        "msp/securitysuitefull": "*",
+        "msp/securitysuite": "*"
+    },
+    "authors": [
+        {
+            "name": "Riccardo Tempesta",
+            "email": "riccardo.tempesta@magespecialist.it"
+        }
+    ],
+    "type": "metapackage",
+    "license": "OSL 3.0"
+}

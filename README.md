@@ -16,4 +16,4 @@ Includes:
 
 ## Install procedure
 
-`composer require msp/securitysuitefull`
+`composer require msp/security-suite`

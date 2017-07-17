@@ -7,7 +7,7 @@ A toolbox to provide one of the **most effective protection** to your Magento2 w
 Includes:
 - Anti Virus: https://github.com/magespecialist/m2-MSP_AntiVirus
 - Malicious Users Detector: https://github.com/magespecialist/m2-MSP_NoSpam
-- Intrusion Detection Prevention: https://github.com/magespecialist/m2-MSP_PhpIds
+- Intrusion Detection Prevention: https://github.com/magespecialist/m2-MSP_Shield
 - Admin Two Factor Authentication: https://github.com/magespecialist/m2-MSP_TwoFactorAuth
 - User lockout: https://github.com/magespecialist/m2-MSP_UserLockout
 - reCaptcha: https://github.com/magespecialist/m2-MSP_ReCaptcha

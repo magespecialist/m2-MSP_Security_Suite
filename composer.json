@@ -2,14 +2,14 @@
     "name": "msp/security-suite",
     "description": "Magento2 Security Suite by MageSpecialist",
     "require": {
-        "msp/shield": "^1.1",
-        "msp/antivirus": "^1.1",
-        "msp/nospam": "^1.1",
-        "msp/adminrestriction": "^1.0",
-        "msp/recaptcha": "^1.0",
-        "msp/twofactorauth": "^1.1",
-        "msp/userlockout": "^1.0",
-        "msp/passwd": "^1.0"
+        "msp/shield": "^1.2",
+        "msp/antivirus": "^1.2",
+        "msp/nospam": "^1.2",
+        "msp/adminrestriction": "^1.1",
+        "msp/recaptcha": "^1.1",
+        "msp/twofactorauth": "^1.2",
+        "msp/userlockout": "^1.1",
+        "msp/passwd": "^1.1"
     },
     "authors": [
         {

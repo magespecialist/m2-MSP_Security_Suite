@@ -6,7 +6,7 @@
         "msp/antivirus": "^1.2",
         "msp/nospam": "^1.2",
         "msp/adminrestriction": "^1.2",
-        "msp/recaptcha": "^1.1",
+        "msp/recaptcha": "1.2.0",
         "msp/twofactorauth": "2.0.1",
         "msp/userlockout": "^1.1",
         "msp/passwd": "^1.1"

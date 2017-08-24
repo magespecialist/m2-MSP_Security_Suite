@@ -7,7 +7,7 @@
         "msp/nospam": "1.2.0",
         "msp/adminrestriction": "1.2.0",
         "msp/recaptcha": "1.3.0",
-        "msp/twofactorauth": "2.0.4",
+        "msp/twofactorauth": "2.0.5",
         "msp/userlockout": "1.1.0",
         "msp/passwd": "1.1.0"
     },

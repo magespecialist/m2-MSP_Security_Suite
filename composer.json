@@ -2,7 +2,7 @@
     "name": "msp/security-suite",
     "description": "Magento2 Security Suite by MageSpecialist",
     "require": {
-        "msp/shield": "2.0.3",
+        "msp/shield": "2.0.4",
         "msp/antivirus": "1.2.1",
         "msp/nospam": "1.2.2",
         "msp/adminrestriction": "1.2.1",

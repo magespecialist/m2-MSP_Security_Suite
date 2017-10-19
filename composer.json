@@ -6,8 +6,8 @@
         "msp/antivirus": "1.2.1",
         "msp/nospam": "1.2.2",
         "msp/adminrestriction": "1.2.1",
-        "msp/recaptcha": "1.3.3",
-        "msp/twofactorauth": "2.0.11",
+        "msp/recaptcha": "1.3.5",
+        "msp/twofactorauth": "2.0.12",
         "msp/userlockout": "1.1.1",
         "msp/passwd": "1.1.1"
     },

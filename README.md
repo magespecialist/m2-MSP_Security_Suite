@@ -9,7 +9,6 @@ Includes:
 - Malicious Users Detector: https://github.com/magespecialist/m2-MSP_NoSpam
 - Intrusion Detection Prevention: https://github.com/magespecialist/m2-MSP_Shield
 - Admin Two Factor Authentication: https://github.com/magespecialist/m2-MSP_TwoFactorAuth
-- User lockout: https://github.com/magespecialist/m2-MSP_UserLockout
 - reCaptcha: https://github.com/magespecialist/m2-MSP_ReCaptcha
 - Admin IP restriction: https://github.com/magespecialist/m2-MSP_AdminRestriction
 

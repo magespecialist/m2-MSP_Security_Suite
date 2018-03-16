@@ -6,8 +6,8 @@
         "msp/antivirus": "1.3.1",
         "msp/nospam": "1.3.0",
         "msp/adminrestriction": "1.3.0",
-        "msp/recaptcha": "1.4.0",
-        "msp/twofactorauth": "2.1.2",
+        "msp/recaptcha": "1.4.8",
+        "msp/twofactorauth": "2.1.9",
         "msp/passwd": "1.2.0"
     },
     "authors": [
@@ -17,5 +17,5 @@
         }
     ],
     "type": "metapackage",
-    "license": "OSL 3.0"
+    "license": "OSL-3.0"
 }
